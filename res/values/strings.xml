@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android!",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband for more book information.
+-->
+
+<resources>
+   <string name="app_name">Epic Tic Tac Toe</string>
+   <string name="main_title">Epic Tic Tac Toe</string>
+   <string name="continue_label">Continue</string>
+   <string name="new_game_label">New Game</string>
+   <string name="about_label">About</string>
+   <string name="exit_label">Exit</string>
+   
+
+   
+   <string name="settings_label">Settings...</string>
+   <string name="settings_title">Epic Tic Tac Toe settings</string>
+   <string name="settings_shortcut">s</string>
+   <string name="music_title">Music</string>
+   <string name="music_summary">Play background music</string>
+   <string name="hints_title">Hints</string>
+   <string name="hints_summary">Show hints during play</string>
+   
+
+   
+   <string name="new_game_title">Difficulty</string>
+   <string name="easy_label">Easy</string>
+   <string name="medium_label">Medium</string>
+   <string name="hard_label">Hard</string>
+   
+
+   
+   <string name="game_title">Game</string>
+   <string name="no_moves_label">No moves</string>
+   <string name="keypad_title">Keypad</string>
+   
+   
+   
+   <string name="about_title">About Epic Tic Tac Toe</string>
+   <string name="about_text">\
+Epic Tic Tac Toe is an expansion on the classic tic tac toe game.
+Nine tic tac toe boards are arranged in a 3x3 grid. The first
+player can move anywhere; however, all subsequent moves are placed
+in the empty spaces on the board corresponding to the square of 
+the previous move (for example, if a player placed a mark on the 
+upper-right square of a board, the next player would place a mark 
+somewhere within the upper-right board).
+\n
+If a player cannot move because the indicated board is full, the 
+next move may go on any board. 
+\n
+When a player gets 3 in a row on one board, that board is marked and 
+cannot be won by the other player. Victory is achieved when these 
+marks make a 3 in a row on the giant 3x3 grid.
+</string>
+   
+   
+</resources>
